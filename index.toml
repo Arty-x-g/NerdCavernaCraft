@@ -161,6 +161,11 @@ hash = "e2ec4d2dbf88e45a09198b9a44ca0553c1e458701e6757997d0d5055b39bb7be"
 metafile = true
 
 [[files]]
+file = "mods/higher-snow-lines.pw.toml"
+hash = "eaf5341529f7b09f496b90b5c2593617a97f074f8b60702d89a75214fee8ea77"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
@@ -248,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
 hash = "5a59ebe515dbf2b637ac23bedeb33e545675668a0a454c5d6edd4d207a458844"
+metafile = true
+
+[[files]]
+file = "mods/ore-veines+.pw.toml"
+hash = "b7f40fd2bfe339b9e23d613be6658daf40e6bfa1fe4fadd5a841607c9bad6312"
 metafile = true
 
 [[files]]
