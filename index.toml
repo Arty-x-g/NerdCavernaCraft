@@ -6,6 +6,21 @@ hash = "475347c8b8c4f3690264ce025690cc513c0b82880699e24a875722d9f21dc6d9"
 metafile = true
 
 [[files]]
+file = "mods/clear-void.pw.toml"
+hash = "aa346562402cbf2d46cdd6b0cce661ba70bfbb3ca29f35aa8327b291a4e55860"
+metafile = true
+
+[[files]]
+file = "mods/clockwork_mod.pw.toml"
+hash = "e1583793eb62dd55042a1e0ec7154138d24a9c3bd2cf808c655baf7efa257105"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "e37aafe5cd58c8289c3b8929393cba2a5c7f2cdd5bbe01e9c6ada1f3f5b86436"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "52e2cb54ee2933bf00e9b7886f47938a2dce1bf998293be2b38552083ffa5f9a"
 metafile = true
@@ -86,8 +101,28 @@ hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
+metafile = true
+
+[[files]]
+file = "mods/gliders.pw.toml"
+hash = "d8f856eb2c5f3ca239896452c4bae65f17d3dd042b3fca15b6ba65fe47cfe555"
+metafile = true
+
+[[files]]
+file = "mods/grapplemod-skybound.pw.toml"
+hash = "e2ec4d2dbf88e45a09198b9a44ca0553c1e458701e6757997d0d5055b39bb7be"
+metafile = true
+
+[[files]]
 file = "mods/jei-worldgen.pw.toml"
 hash = "2a4d3bfb246113f1ceef8d6414d62a3791dd773ec65246b7afd2238aa1fbdc58"
+metafile = true
+
+[[files]]
+file = "mods/knight-lib.pw.toml"
+hash = "608ca3128f7ce83bc199a1687c0843c23999de0a29d6669be374e4588f5fde69"
 metafile = true
 
 [[files]]
@@ -103,6 +138,16 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
+metafile = true
+
+[[files]]
+file = "mods/smooth-skies.pw.toml"
+hash = "a118ed58955f9bc6a9367690818520e96f11b94b2067440bed55300139fc0988"
+metafile = true
+
+[[files]]
+file = "mods/village-spawn-point.pw.toml"
+hash = "be517604d9f197eb9ccc0685aeb8443831d87a2b3387db45be3832ff0422b763"
 metafile = true
 
 [[files]]
