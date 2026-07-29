@@ -11,8 +11,8 @@ hash = "62611a2b798035390a280b158563cfa590ab6f3465b77be46949839809dbe77f"
 metafile = true
 
 [[files]]
-file = "mods/all-the-heads.pw.toml"
-hash = "702cef32228bf4a89f89488a24bbe5de8675f30dc103f18810831dfc10737bb0"
+file = "mods/alltheleaks.pw.toml"
+hash = "15cf7e8df90f1e5b6187c4b3a53485bb8186589a3ffd3bfc9ca9ca0c58a213ac"
 metafile = true
 
 [[files]]
