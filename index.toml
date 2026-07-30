@@ -76,11 +76,6 @@ hash = "b841dbd591775e39c4c04361bf56cefabbb954dc709608f0ea812a7e4db00530"
 metafile = true
 
 [[files]]
-file = "mods/biomes-o-plenty.pw.toml"
-hash = "a4931e5abbec081a08ab3a1d69b2d470596b6361d707a7756f6ad34c0f21f81e"
-metafile = true
-
-[[files]]
 file = "mods/building-wands.pw.toml"
 hash = "98de570e4873e332455e5526ed5b62779cdb23c217efac51ad864ae510861456"
 metafile = true
@@ -103,11 +98,6 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
-metafile = true
-
-[[files]]
-file = "mods/clear-void.pw.toml"
-hash = "aa346562402cbf2d46cdd6b0cce661ba70bfbb3ca29f35aa8327b291a4e55860"
 metafile = true
 
 [[files]]
@@ -351,11 +341,6 @@ hash = "d8f856eb2c5f3ca239896452c4bae65f17d3dd042b3fca15b6ba65fe47cfe555"
 metafile = true
 
 [[files]]
-file = "mods/glitchcore.pw.toml"
-hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
-metafile = true
-
-[[files]]
 file = "mods/grapplemod-skybound.pw.toml"
 hash = "e2ec4d2dbf88e45a09198b9a44ca0553c1e458701e6757997d0d5055b39bb7be"
 metafile = true
@@ -446,11 +431,6 @@ hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
 
 [[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "e06a9a886181277591baeb9e82b484bd6204fe3aec0ffc8781bb05bb11b4d1a9"
-metafile = true
-
-[[files]]
 file = "mods/little-structures.pw.toml"
 hash = "a3b30316b0707dcc80fcace6dd21a65cec9d25918795059b5edf20e976845e83"
 metafile = true
@@ -458,11 +438,6 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "ee7786026fb270b31b018efd166afff9f91de67369a50832ca33644d2bc32722"
-metafile = true
-
-[[files]]
-file = "mods/mbs-moogs-bountiful-structures.pw.toml"
-hash = "156ee2aad7d744cfb47b55b4882fdb1a4243d915e8acdb8493411a1aaa49946c"
 metafile = true
 
 [[files]]
@@ -476,13 +451,8 @@ hash = "a23fbe7955f2e49ce60761226b24491ef07d255c0dc1720a1109239de55be784"
 metafile = true
 
 [[files]]
-file = "mods/mmr-moogs-mineshafts-reimagined.pw.toml"
-hash = "ac4880fffcc7c1a5e81069e9baa91e4ea06f5f3ed9760214bc318852efbcc2a0"
-metafile = true
-
-[[files]]
 file = "mods/mmv-moogs-missing-villages.pw.toml"
-hash = "2e02ead0d9715858cb5ff4dab6f290181ba0b3f7c32765045a6e3f34524bdc1d"
+hash = "e503dc4850258ebcf34ce99458ce452c9f4be8c6551136d27acd5ad0080b121c"
 metafile = true
 
 [[files]]
@@ -526,11 +496,6 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
-file = "mods/mss-moogs-soaring-structures.pw.toml"
-hash = "8cd841c728c5b07e9b90fb65e57c67f3dd06e95bef570feb106ac2b191ded654"
-metafile = true
-
-[[files]]
 file = "mods/mtr-moogs-temples-reimagined.pw.toml"
 hash = "930153d395c14a31e5be0edaa9445820796508597d7498f9dccdb2d2012c5629"
 metafile = true
@@ -538,6 +503,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
+metafile = true
+
+[[files]]
+file = "mods/nether-descent.pw.toml"
+hash = "73fafdb7d8b6f984023c7093541382e3d2b9650dd28c363c2568d65ad099c05d"
 metafile = true
 
 [[files]]
@@ -583,21 +553,6 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
-metafile = true
-
-[[files]]
-file = "mods/regions-unexplored.pw.toml"
-hash = "9a94f2e57b081963d11a33a9be6435046bfb8720defac9d2cced4d37b3db7299"
-metafile = true
-
-[[files]]
-file = "mods/repurposed-structures-farmers-delight-compat.pw.toml"
-hash = "1b9625747845eac9c4a92135ec74201039b9f7677abbf42bc8b61f51986b5a1a"
-metafile = true
-
-[[files]]
-file = "mods/repurposed-structures-forge.pw.toml"
-hash = "4b298b0630551f7af3d77ff35d773da5668e616c2d965f196284d6d8e43c325a"
 metafile = true
 
 [[files]]
@@ -703,21 +658,6 @@ metafile = true
 [[files]]
 file = "mods/tornado-physics.pw.toml"
 hash = "bc85143c263d4fa941c896f57237b5e6cf382b9af8f78eeae8bddac59693b58e"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-core.pw.toml"
-hash = "f05197caaa06d6cf3807ae2d81928c4f5eff1336597b863207c6320ab7f2e4b0"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-furniture.pw.toml"
-hash = "e32edf3089c8b5c395fb9665f415254dc0e627dad6ab0dd26d85168b665aa024"
-metafile = true
-
-[[files]]
-file = "mods/valhelsia-structures.pw.toml"
-hash = "7389025d1fa215f56e9ecabf6f84e4092271322de1ec28f3a835b9e7b13238bb"
 metafile = true
 
 [[files]]

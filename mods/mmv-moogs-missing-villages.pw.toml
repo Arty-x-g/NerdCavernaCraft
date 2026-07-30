@@ -1,6 +1,6 @@
 name = "MMV - Moog's Missing Villages"
 filename = "MoogsMissingVillages-1.21-2.1.2.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/spZb29SD/versions/1HLHTaPT/MoogsMissingVillages-1.21-2.1.2.jar"
