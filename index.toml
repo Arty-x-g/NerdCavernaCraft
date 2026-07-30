@@ -136,6 +136,11 @@ hash = "dfc42a26ddd76ee99cad6f023e0c14c82cbb91d2338f7eeac678a05e3e2a13fa"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "2b8c5286980b8d864085d02a6b2153cefa401a965833139ffac8e7661a322f7c"
 metafile = true
@@ -246,6 +251,11 @@ hash = "0670ca65c7208aa8211883fae30c935f53cad38196aac46723b10e7bbc695113"
 metafile = true
 
 [[files]]
+file = "mods/exposure.pw.toml"
+hash = "28c29922378fa19f4edf1d16fffb48287a87be159a3378647073bbdebd2a2196"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
@@ -313,6 +323,16 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "94af73eec28b59b314b2c6ef9dfb98f37d7bbcbcb482c278570cc15e44b6a559"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "ec8432e5a8dcdaeb7eed2086c52916c41e6311258ae3f2b0aec022d3892c23b7"
+metafile = true
+
+[[files]]
+file = "mods/immersive-weather-renewed.pw.toml"
+hash = "a58a37f8dbd119032390fd1f6794d7b2f9a71c69c4e10e3b5a8b99e71bd9c852"
 metafile = true
 
 [[files]]
@@ -431,6 +451,11 @@ hash = "96069a6429a2f33d0c95a84e399db86dee16018f2ad2a17f9ad29b0434edc7c0"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "688a2fcd58d20df93c57e571b054b3c582932a795a255dc13c65b055dc1880b1"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "4eaef45625336f16e9461e00e9e4f4ed789bcd25b4ca8e011d68564ddb7c8c3a"
 metafile = true
@@ -521,6 +546,11 @@ hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "860d3b3e2c407980ece69e51896fb5e2e1ffcdb63b6956d440f331cf73777c83"
 metafile = true
@@ -561,6 +591,11 @@ hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
 metafile = true
 
 [[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "e2dcaa6ddb7112eed2cd97fa1e7084108d7095fe2fea04fa45d9ff305312c655"
+metafile = true
+
+[[files]]
 file = "mods/surveyor.pw.toml"
 hash = "13848a9eb3c5fd091b52f78cfae4ace2c3cd0cb32a76d6f61c12435f47d82ed1"
 metafile = true
@@ -568,6 +603,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "15962183bec2468058c70e87aa32e902a08489b0f86741088cdc9aa958ba4931"
+metafile = true
+
+[[files]]
+file = "mods/tornado-physics.pw.toml"
+hash = "bc85143c263d4fa941c896f57237b5e6cf382b9af8f78eeae8bddac59693b58e"
 metafile = true
 
 [[files]]
@@ -603,6 +643,11 @@ metafile = true
 [[files]]
 file = "mods/village-spawn-point.pw.toml"
 hash = "be517604d9f197eb9ccc0685aeb8443831d87a2b3387db45be3832ff0422b763"
+metafile = true
+
+[[files]]
+file = "mods/weather-storms-tornadoes.pw.toml"
+hash = "54d07601a6be738af7115e07b29d75de786b5ffdc98681a383d6c66f1bd6a6c9"
 metafile = true
 
 [[files]]
