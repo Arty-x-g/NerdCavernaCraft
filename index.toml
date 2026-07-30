@@ -46,6 +46,11 @@ hash = "3a9295215e3a815a0dd459a04ca8e9ac39eefed7e6fa7c08eb53165f5f3b165b"
 metafile = true
 
 [[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "e7b1b17efc6edcf454e6b48d8fb873031fdcc840e9bd9b7354af2cb08d67e6b4"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
@@ -236,8 +241,18 @@ hash = "e2ec4d2dbf88e45a09198b9a44ca0553c1e458701e6757997d0d5055b39bb7be"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "e88253c3633274c212b2c4628a26ba03ceba6afff561eb6f9488689fad4cad06"
+metafile = true
+
+[[files]]
 file = "mods/higher-snow-lines.pw.toml"
 hash = "eaf5341529f7b09f496b90b5c2593617a97f074f8b60702d89a75214fee8ea77"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "a2fbecad69fcbff54919864ea8b95e54d140a1a2c637d73307fb366e76066fe6"
 metafile = true
 
 [[files]]
@@ -253,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
+metafile = true
+
+[[files]]
+file = "mods/item-highlighter.pw.toml"
+hash = "9163b758163681f75e2048c798be880c50392684b127d7d87f42ea588deceb62"
 metafile = true
 
 [[files]]
@@ -278,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/krypton-fnp.pw.toml"
 hash = "5a96006110f4cdd98460a994373153909a5f0bf6cb68c5ac3a64adbda86eb302"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
 metafile = true
 
 [[files]]
@@ -391,6 +416,11 @@ hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "981284d219e27eed15834e024885e89e445c15aa3b07158080438b9f82dce8b6"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
@@ -431,6 +461,11 @@ hash = "1dee28a2768751b8bcdbf633ccf74e9a8bb7f078253dcc7a6bdb63d82a3769a9"
 metafile = true
 
 [[files]]
+file = "mods/smooth-gui.pw.toml"
+hash = "f347981c4ea83fdb5ee05265e10cad0ab0d980c970e4c4e6735a098081f8bd0f"
+metafile = true
+
+[[files]]
 file = "mods/smooth-skies.pw.toml"
 hash = "a118ed58955f9bc6a9367690818520e96f11b94b2067440bed55300139fc0988"
 metafile = true
@@ -443,6 +478,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "abc285fb28b8df872e4c2bb31e04fc23e2724d9c84b4cb6fbc4320fc569c758f"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
 metafile = true
 
 [[files]]
