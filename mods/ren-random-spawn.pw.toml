@@ -1,0 +1,13 @@
+name = "Ren's Random Spawn"
+filename = "random_spawn_point-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SLZaSQWe/versions/ZzA0x5y9/random_spawn_point-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "9b4d14975be398cdb76d6570320de74e3bd697b3ff71e34c837504540bff4dbcd6b80f6a0b10d211f1c8cad51857d2f178aa2eb6484795ff3092ca626a8701dc"
+
+[update]
+[update.modrinth]
+mod-id = "SLZaSQWe"
+version = "ZzA0x5y9"

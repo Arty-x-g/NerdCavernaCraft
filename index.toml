@@ -1551,6 +1551,11 @@ hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
 
 [[files]]
+file = "mods/ren-random-spawn.pw.toml"
+hash = "eb272443039141c699cfeda54ef53eee82a5e5788d4eced92e98344396c26bd8"
+metafile = true
+
+[[files]]
 file = "mods/rpl.pw.toml"
 hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
