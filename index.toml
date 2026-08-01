@@ -765,6 +765,14 @@ file = "config/sky_archipelago-server.toml"
 hash = "e967fdfc15cd6242a84e39c54feaebc459b529518fb2fbef14f1533b7ab5667f"
 
 [[files]]
+file = "config/sleep_tight-client.toml"
+hash = "bdf94c1ceea389db4c327c20b4e6389fa7ed0e4738edd3fa7a0ee6c2dce3a477"
+
+[[files]]
+file = "config/sleep_tight-common.toml"
+hash = "f79218bb41cc5846faab670116e7da4bd065cca6d9ec8626b69d3d40338f885f"
+
+[[files]]
 file = "config/smoothgui.json"
 hash = "f74306bbab8ba368c630a1c57d730b888cdb0ef1fd58bbb891a649cfb606c6af"
 
