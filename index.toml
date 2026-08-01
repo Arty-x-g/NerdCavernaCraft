@@ -6,7 +6,7 @@ hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "b43372c1ed0f6ded81604f507986d70620cae3b6b6f886c44385eac0d26fd148"
+hash = "18ff25e9b4e8187fba7215ce1b9834fecd69d1fbe50b460923d44032b6b84395"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -82,7 +82,7 @@ hash = "43303ea5835f439a1fc1e7eb771834cfce26450a2381ad192621e4ed5532ff29"
 
 [[files]]
 file = "config/antique-atlas.toml"
-hash = "3fea741eb4c6e5784e349723cc374ebdb70b60fa99986b708d9dd248524d2cf9"
+hash = "1c76512efa0efb9b3e1099c2dd5d2753c9c01be0519385e77168861e4e16d24b"
 
 [[files]]
 file = "config/badoptimizations.txt"
@@ -106,7 +106,7 @@ hash = "0b05a8814f09fead55b1901b7efab7d3ab87227ea3fc6b5e65a6197261832710"
 
 [[files]]
 file = "config/biomeswevegone/world_generation.json"
-hash = "6fb6ff3e2cb4d1c47431b2e9fb48090fd985e0b43777949ec0c346cda85e532d"
+hash = "4e644f8324221022aed71d39b3d56a6cd189d5bd3f67c4aa72b889fb208421da"
 
 [[files]]
 file = "config/bl_accessories_layer.json"
@@ -122,7 +122,7 @@ hash = "fa8eebf200c797ea7f62eb932f3eee7dfa50356daccd7a5dff8017827215e8d9"
 
 [[files]]
 file = "config/clockwork.toml"
-hash = "012dcb7c723747a6696263d36c26ec967fef113d9de29c98ae05f001becca2b4"
+hash = "03a6188fbdaf1eabf702da1b76e04fd353b9023f37b82e1ff2ba29b8b3400928"
 
 [[files]]
 file = "config/collective.json5"
@@ -186,7 +186,7 @@ hash = "2d14d343a8fb8130c42d1b7bc9116d1646f74d9a0877d796892c6ec3b666b2b6"
 
 [[files]]
 file = "config/cubes_without_borders.json"
-hash = "fc23de68ad82636995de4b3da07d4732767e51d4f8c048a0749f42958b8afa47"
+hash = "f248bc2019d956312c0c18037b84e764947dd200c00a96f45a807624d233010d"
 
 [[files]]
 file = "config/do_a_barrel_roll-client.json"
@@ -254,7 +254,7 @@ hash = "f437a2bff2337eecc996f8d0d17d348403eae070045dfbd37065c6fcb79ce6ce"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "671a75bb4c1c3a6de7ebabe70a0093d4e6e78c6ccb2d5212b2cd8e935f957d3e"
+hash = "e13d7178c94e66ae5846be45fc919398390efb18534f4f27083fa38aac7d3ae7"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -326,11 +326,11 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "e85f4bd19a5279094f6af8e6b88eb93cefb648e8be44d9dc1f84633209e74e3f"
+hash = "47a60d344d7f8e6d0c8a01c1a6db7b109e286202858a3af2dd6be6c857cd1a61"
 
 [[files]]
 file = "config/knightlib.toml"
-hash = "6652af63cf771acc9db30f764fc427ea0c08c78065119fbf9f7824600ddc95aa"
+hash = "98eba404d0b4eb6b4b92a1c66bda64617a050fa8e8952cbae73f4ba35deaec29"
 
 [[files]]
 file = "config/krypton_fnp.yaml"
@@ -338,7 +338,7 @@ hash = "7637131dbf6d97f0edca39274fa1afdf43260052c0b62649faf51283c5a1f0be"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "fdd6958ff17541c8d1c891bd1602088bb6888f41229e966387a07311f32ec6d9"
+hash = "8c8971f9d83d1b222e442106e9fccf6130671bd0a4ab8fc12481db5def5d5ed9"
 
 [[files]]
 file = "config/letmedespawn.json"
@@ -350,7 +350,7 @@ hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
 
 [[files]]
 file = "config/mcqoy.toml"
-hash = "e3580c3a0b45180b0980003443e92a28ee976cebb686d69a1864a622209a7780"
+hash = "cda8cdeef67a8a31110af53d0c764ac9d328e12503f885198d9bb9ba9ea295d0"
 
 [[files]]
 file = "config/mod_menu-client.toml"
@@ -410,7 +410,7 @@ hash = "d4714df599c3a0cb8a7b5524312eaa0043ffd53cbbeb7deb9c33f953c3b29f11"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "b9fc2c0eced6141b1e554422a350c0c2c97770ed05247463fb496637d8091c7f"
+hash = "8bcd48bb2278f2ae81c54cffdeec2c79eadf3be9b72b7c0e8206a1598775b679"
 
 [[files]]
 file = "config/particlerain/config.json"
@@ -494,7 +494,7 @@ hash = "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba"
 
 [[files]]
 file = "config/punchy/merged_animation_selection.json"
-hash = "77d9559a19f69d73f952177d2047760a9e55be219fee015658effaaa8783eb46"
+hash = "734ae52fc6f8dd7a0fb3fdac6165b32bcf59d73b4a6e1ddb28ce16bb4b74e9ee"
 
 [[files]]
 file = "config/punchy/punchy_config.json"
@@ -550,7 +550,7 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "44478bef0973f1aa587c0493568a5cbc5426233b611f14bd2be489b5b862fa7f"
+hash = "8ddaee38994c33a20cdc6e3bcf8f6ce349749caef5da9946d50b093759556ac0"
 
 [[files]]
 file = "config/sophisticatedbackpacks-common.toml"
@@ -626,7 +626,7 @@ hash = "acf56d3d8e4737cf8fc0be14eab977a9eb266a57e004ed2e67c7882a249a62bb"
 
 [[files]]
 file = "config/surveyor.toml"
-hash = "4c1917769799dc724e3585064768abae717afebf61befea059240b55a0ccb818"
+hash = "d220d1f1d61e59ab8d55324ade670a0589e41865dc628e8937887825b7348103"
 
 [[files]]
 file = "config/terrablender.toml"
@@ -666,7 +666,7 @@ hash = "4d754b1c19bdf3730ee060871625b8f1b17fcc9f932954f0aee0873b3196b29e"
 
 [[files]]
 file = "config/zfastnoise.mixin.properties"
-hash = "6d2efbcc0c5c82f62078cc331578d1771e51602d5ebca6fd4c9328aabf22d9fc"
+hash = "fdfc2b8a09618737a325a0a3f68e9673b93a4a1acb876011d55f52636c4df95c"
 
 [[files]]
 file = "config/zombieawareness/ClientConfig.toml"
@@ -687,6 +687,10 @@ hash = "9790fcb38d86141421ec54365fdbb81534804e3577c1ed11f001dc7db6ae1a3b"
 [[files]]
 file = "config/zombieawareness/PlayerRulesAndLists.toml"
 hash = "bd60f14054777a8ff406e6033adf965f861c3faa347826f0022532eeabb23c09"
+
+[[files]]
+file = "defaultconfigs/accessible-step.json"
+hash = "9129479e06d716c14c0aa9c0db5b039013c6d272a60368ff85b0fad35709f99b"
 
 [[files]]
 file = "mods/2032-world-height.pw.toml"
