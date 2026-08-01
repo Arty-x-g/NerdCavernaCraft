@@ -909,6 +909,10 @@ file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
+file = "config/yosbr/options.txt"
+hash = "ac1328b82d200ef828b874b8a46a5dca708fb1c0b7901eed662cba181a886348"
+
+[[files]]
 file = "config/yukamibackpacktab-client.toml"
 hash = "b5d8b171fbd66352b07d310e59daf98b72d1759a7352546e48115d5b0ea0700a"
 
@@ -1652,6 +1656,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
+metafile = true
+
+[[files]]
+file = "mods/yosbr-neo.pw.toml"
+hash = "a735706c28aaf07cf3283f2d17727798b8af815e40fafb4d3fc2d279132ea1a2"
 metafile = true
 
 [[files]]
