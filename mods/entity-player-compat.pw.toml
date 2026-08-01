@@ -1,0 +1,13 @@
+name = "Entity Player Compat"
+filename = "entity_player_compat_neoforge-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "11bd30a9bc29a1661c7050e5ffce2cbf4acea616"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8476601
+project-id = 1497436
