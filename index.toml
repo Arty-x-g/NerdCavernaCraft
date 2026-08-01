@@ -945,8 +945,17 @@ file = "config/zombieawareness/PlayerRulesAndLists.toml"
 hash = "bd60f14054777a8ff406e6033adf965f861c3faa347826f0022532eeabb23c09"
 
 [[files]]
+file = "datapacks/sleep.pw.toml"
+hash = "a01c0cd34b051434b1cb08e30144952e8ff8ccee4347fbe1038ec7037af599d2"
+metafile = true
+
+[[files]]
 file = "defaultconfigs/accessible-step.json"
 hash = "9129479e06d716c14c0aa9c0db5b039013c6d272a60368ff85b0fad35709f99b"
+
+[[files]]
+file = "icon.jpg"
+hash = "092e21a180d736806e55d5fef5be5ee0a50df9a3272edadf8f6d6733c53d25c1"
 
 [[files]]
 file = "mods/2032-world-height.pw.toml"
@@ -1514,6 +1523,11 @@ hash = "6f24e7f5ecef862b1bdb61031637e27b093f185c3219023bea94d2d954ec4180"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
+metafile = true
+
+[[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "981284d219e27eed15834e024885e89e445c15aa3b07158080438b9f82dce8b6"
 metafile = true
@@ -1556,6 +1570,11 @@ metafile = true
 [[files]]
 file = "mods/sky-archipelago.pw.toml"
 hash = "1dee28a2768751b8bcdbf633ccf74e9a8bb7f078253dcc7a6bdb63d82a3769a9"
+metafile = true
+
+[[files]]
+file = "mods/sleep-tight.pw.toml"
+hash = "0a7221f34ac9ad5612bccc31bc89e2b5b75c308476efd79c3afed8b774f972e0"
 metafile = true
 
 [[files]]
@@ -1666,6 +1685,11 @@ metafile = true
 [[files]]
 file = "mods/yukamis-sophisticated-backpack-tab.pw.toml"
 hash = "cc1c30cf4eb93828aa828726b31619d159aa3de131e4c85c6fe5cb4388da2085"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
 metafile = true
 
 [[files]]
