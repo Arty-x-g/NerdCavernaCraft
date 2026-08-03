@@ -596,7 +596,7 @@ metafile = true
 
 [[files]]
 file = "mods/pv-addon-sculk.pw.toml"
-hash = "e84f6882e1c10af15fe433dd60cd9855c9dd6fbd363bab99732e760467b04754"
+hash = "a773b5cc4ca2a6db78f6b265f4ad1dd0462391a8953d8b6d11a0cd0496341b40"
 metafile = true
 
 [[files]]
