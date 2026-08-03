@@ -595,6 +595,21 @@ hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
 metafile = true
 
 [[files]]
+file = "mods/pv-addon-sculk.pw.toml"
+hash = "e84f6882e1c10af15fe433dd60cd9855c9dd6fbd363bab99732e760467b04754"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-soundphysics.pw.toml"
+hash = "c0f63f1502f3d5a3f591cfdbe11084fd6b88f03254806d5dae0566419123c05c"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-walkietalkie.pw.toml"
+hash = "ab8a74214b5b81ca6b19347cccbe1d156fba7149f01d81b1e031641721a3339f"
+metafile = true
+
+[[files]]
 file = "mods/ren-random-spawn.pw.toml"
 hash = "eb272443039141c699cfeda54ef53eee82a5e5788d4eced92e98344396c26bd8"
 metafile = true
