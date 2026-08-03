@@ -729,6 +729,10 @@ file = "config/punchy/punchy_config.json"
 hash = "8606be5c43ae38dc88d0e6293d4d641af4c59e8d35e9d24ce179e44b7e989673"
 
 [[files]]
+file = "config/pv-addon-sculk/config.toml"
+hash = "8fc77d1a7191e2e9a9c0ef1a97604c8684e0d2bc23a2f0481c8eedb5df1f0b37"
+
+[[files]]
 file = "config/ritchiesprojectilelib-server.toml"
 hash = "793c05c7f9975032f536f7b9702a4f892b8beb31e641af1f12ee9c96aed4d013"
 
@@ -1548,6 +1552,21 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-sculk.pw.toml"
+hash = "a773b5cc4ca2a6db78f6b265f4ad1dd0462391a8953d8b6d11a0cd0496341b40"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-soundphysics.pw.toml"
+hash = "c0f63f1502f3d5a3f591cfdbe11084fd6b88f03254806d5dae0566419123c05c"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-walkietalkie.pw.toml"
+hash = "ab8a74214b5b81ca6b19347cccbe1d156fba7149f01d81b1e031641721a3339f"
 metafile = true
 
 [[files]]
