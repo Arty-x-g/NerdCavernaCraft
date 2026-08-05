@@ -1120,6 +1120,11 @@ hash = "aa69dc9a1d57d4c3c4f83627017b5a741c301f42f83f25a47bc420e869f9d931"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-ultimatefactory-recipe-fix.pw.toml"
+hash = "aef59d09c67d5c1ed3758265cc570bfae635b321af560f6805edfabfa27f3c96"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
 metafile = true
@@ -1177,6 +1182,11 @@ metafile = true
 [[files]]
 file = "mods/create-structures-overhaul.pw.toml"
 hash = "9f2fdce619f9aaaa62e1b649513058a82f1993c7050241fe39075e3438d6e456"
+metafile = true
+
+[[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "34d808989e71221b8e01a44bc8031f20af1c94981acb0cba4669e0e58be69629"
 metafile = true
 
 [[files]]
@@ -1662,6 +1672,11 @@ metafile = true
 [[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "e2dcaa6ddb7112eed2cd97fa1e7084108d7095fe2fea04fa45d9ff305312c655"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "1d277d4c4d8f3abc49176d3b029584b70d92dcb9b89cf2cf6094e674fe9885c8"
 metafile = true
 
 [[files]]
